@@ -37,10 +37,12 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 ---
 ### 🌐 Competitive Programming and Coding Profiles
 
+<p align="center">
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2315B8A6.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/harshikab2112)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/harshikab2112)
 [![CodePen](https://img.shields.io/badge/CodePen-%231E1F26.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/harshikab2112)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%23005A8B.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/harshikab2112)
+</p>
 
 ---
 
