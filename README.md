@@ -19,7 +19,6 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 ### 🛠️ Skills and Tools
 
 <div align="center">
-  <h2>💻 Front-End Tech Stack</h2>
   <p>
     <!-- Core Web Technologies -->
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
