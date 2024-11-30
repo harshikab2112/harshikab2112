@@ -37,12 +37,20 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 ---
 ### 🌐 Competitive Programming and Coding Profiles
 
-<center>
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2315B8A6.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/harshikab2112)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/harshikab2112)
-[![CodePen](https://img.shields.io/badge/CodePen-%231E1F26.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/harshikab2112)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%23005A8B.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/harshikab2112)
-</center>
+<div align="center">
+  <a href="https://www.hackerrank.com/harshikab2112" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%2315B8A6.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/harshikab2112" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://codepen.io/harshikab2112" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-%231E1F26.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://www.freecodecamp.org/harshikab2112" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-%23005A8B.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp" />
+  </a>
+</div>
 
 ---
 
