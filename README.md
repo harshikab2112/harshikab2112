@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Harshika Bansal! 👋</h1>
 
 <p align="center">
-Aspiring Front-End Developer | Passionate Learner | Problem-Solver 🚀
+Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🌱 **Currently Learning**: React, JavaScript, and Full-Stack Development.
-- 💼 **Career Goal**: To become a professional **front-end developer** and contribute to impactful projects.
+- 🌱 **Currently Learning**: Full-Stack Development .
+- 💼 **Career Goal**: To become a professional **full-stack developer** and contribute to impactful projects.
 - 🌟 **Fun Fact**: I dedicate 10 hours daily to mastering web development.
-- 🧠 **Hobbies**: Exploring UI/UX design, productivity hacks, and coding challenges.
+- 🧠 **Hobbies**: Exploring productivity hacks, learning new things, and coding challenges.
 
 ---
 
@@ -38,20 +38,17 @@ Aspiring Front-End Developer | Passionate Learner | Problem-Solver 🚀
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/harshika-bansal-2a855b154/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:hinabansal321@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 📝 Latest Projects
-
-- [**Portfolio Website**](https://github.com/harshikab2112/portfolio) - A sleek and modern portfolio to showcase my work.
-- [**React Todo App**](https://github.com/harshikab2112/react-todo-app) - A simple and interactive to-do list built with React.
+<!--### 📝 Latest Projects-->
 
 ---
 
