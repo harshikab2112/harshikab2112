@@ -10,6 +10,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 
 - 🌱 **Currently Learning**: Full-Stack Development .
 - 💼 **Career Goal**: To become a professional **full-stack developer** and contribute to impactful projects.
+- 🤝 **I’m looking for help with**: Tech Jobs and Internships
 - 🌟 **Fun Fact**: I dedicate 10 hours daily to mastering web development.
 - 🧠 **Hobbies**: Exploring productivity hacks, learning new things, and coding challenges.
 
@@ -32,6 +33,14 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=harshikab2112&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshikab2112&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+### 🌐 Competitive Programming and Coding Profiles
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2315B8A6.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/harshikab2112)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/harshikab2112)
+[![CodePen](https://img.shields.io/badge/CodePen-%231E1F26.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/harshikab2112)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%23005A8B.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/harshikab2112)
 
 ---
 
