@@ -30,7 +30,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
     <img src="https://img.shields.io/badge/Bootstrap-%237A6E4F.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=black" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
     <!-- Build Tools & Package Managers -->
     <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -42,8 +42,8 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
     <!-- Python and DSA -->
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-    <img src="https://img.shields.io/badge/DSA-%2300C7B7.svg?style=for-the-badge&logo=python&logoColor=black" alt="DSA" />
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/DSA-%2300C7B7.svg?style=for-the-badge&logo=python&logoColor=white" alt="DSA" />
   </p>
 </div>
 
