@@ -107,8 +107,6 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 
 ---
 
-## Profile Views 👀
-
 ![Profile views](https://komarev.com/ghpvc/?username=harshikab2112)
 
 ---
