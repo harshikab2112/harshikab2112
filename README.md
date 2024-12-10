@@ -104,3 +104,11 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 ---
 
 <h3 align="center">💡 "Every great developer started where you are now." Keep learning and building! 💻</h3>
+
+---
+
+## Profile Views 👀
+
+![Profile views](https://komarev.com/ghpvc/?username=harshikab2112)
+
+---
