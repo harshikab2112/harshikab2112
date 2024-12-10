@@ -15,7 +15,6 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 - 🧠 **Hobbies**: Exploring productivity hacks, learning new things, and coding challenges.
 - 📫 How to reach me: [hinabansal321@gmail.com](mailto:hinabansal321@gmail.com)
 
-
 ---
 
 ### 🛠️ Skills and Tools
@@ -59,6 +58,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 </p>
 
 ---
+
 ### 🌐 Competitive Programming and Coding Profiles
 
 <div align="center">
@@ -88,10 +88,6 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-<!--### 📝 Latest Projects-->
 
 ---
 
