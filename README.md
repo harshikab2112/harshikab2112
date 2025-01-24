@@ -43,7 +43,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
     <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
     <!-- Python and DSA -->
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/DSA-%2300C7B7.svg?style=for-the-badge&logo=python&logoColor=white" alt="DSA" />
+    <img src="https://img.shields.io/badge/DSA-%2300C7B7.svg?style=for-the-badge&logo=dsa&logoColor=white" alt="DSA" />
   </p>
 </div>
 
@@ -67,11 +67,11 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
   <a href="https://www.codewars.com/users/harshikab2112" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-%23B1361E.svg?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
+  <a href="https://www.freecodecamp.org/harshikab2112" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-%2318A0FB.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" />
+  </a>
   <a href="https://leetcode.com/harshikab2112" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://codepen.io/harshikab2112" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-%231E1F26.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
   <a href="https://www.freecodecamp.org/harshikab2112" target="_blank">
     <img src="https://img.shields.io/badge/freeCodeCamp-%23005A8B.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp" />
