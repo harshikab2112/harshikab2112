@@ -43,7 +43,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
     <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
     <!-- Python and DSA -->
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/DSA-%23764ABC.svg?style=for-the-badge&logo=dsa&logoColor=white" alt="DSA" />
+    <img src="https://img.shields.io/badge/DSA-%230A7F2C.svg?style=for-the-badge&logo=java&logoColor=white" alt="DSA" />
   </p>
 </div>
 
