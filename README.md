@@ -64,9 +64,6 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
   <a href="https://www.codewars.com/users/harshikab2112" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-%23B1361E.svg?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
-  <a href="https://www.freecodecamp.org/harshikab2112" target="_blank">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-%2318A0FB.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" />
-  </a>
   <a href="https://leetcode.com/harshikab2112" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
