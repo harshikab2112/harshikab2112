@@ -15,7 +15,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
   - 🧠 **Hobbies**: Exploring productivity hacks, learning new things, and coding challenges.
 
 <p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" alt="Girl coding" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" alt="Girl coding" width="100"/>
 </p>
 
 ---
