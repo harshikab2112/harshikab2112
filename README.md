@@ -50,8 +50,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshikab2112&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshikab2112&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_bust=true" alt="GitHub Streak" />
-
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=harshikab2112&theme=radical" alt="GitHub Streak" /></a>
 ---
 
 ### 🌐 Competitive Programming and Coding Profiles
