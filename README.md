@@ -13,6 +13,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 - 🤝 **I’m looking for help with**: Tech Jobs and Internships
 - 🌟 **Fun Fact**: I dedicate 10 hours daily to mastering web development.
 - 🧠 **Hobbies**: Exploring productivity hacks, learning new things, and coding challenges.
+![Girl coding while listening to music](https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif)
 
 ---
 
