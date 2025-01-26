@@ -50,7 +50,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshikab2112&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshikab2112&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshikab2112&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
