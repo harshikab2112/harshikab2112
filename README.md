@@ -46,13 +46,20 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 
 ---
 
-### 📊 GitHub Stats  
-![Harshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshikab2112&show_icons=true&theme=radical)  
+### 📊 GitHub Stats
 
-### 🔥 GitHub Streak  
-![Harshika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshikab2112&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshikab2112&show_icons=true&theme=radical" />
+</p>
 
-### 📈 GitHub Activity Graph  
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshikab2112&theme=radical" />
+</p>
+
+### 📈 GitHub Activity Graph
+
 ![Harshika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshikab2112&theme=radical)  
 
 ---
