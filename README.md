@@ -55,7 +55,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshikab2112&theme=default" alt="GitHub Streak Stats" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshikab2112&theme=radical)](https://git.io/streak-stats)
 </p>
 
 ### 📈 GitHub Activity Graph
