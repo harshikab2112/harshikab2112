@@ -64,7 +64,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 
 ---
 
-### 🌐 My Deployed Projects  
+### 📚 My Deployed Projects  
 
 <p align="center">
   <a href="https://app.netlify.com/teams/hbansal243/sites" target="_blank">
@@ -74,7 +74,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 
 ---
 
-### 🌐 Competitive Programming and Coding Profiles
+### 👩‍💻 Competitive Programming and Coding Profiles
 
 <div align="center">
   <a href="https://www.hackerrank.com/harshikab2112" target="_blank">
