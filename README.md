@@ -64,6 +64,13 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
 
 ---
 
+### 🌐 My Deployed Projects  
+
+Check out all my deployed projects on Netlify:  
+[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/hbansal243/sites)  
+
+---
+
 ### 🌐 Competitive Programming and Coding Profiles
 
 <div align="center">
