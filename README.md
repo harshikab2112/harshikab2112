@@ -11,7 +11,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
   - 🌱 **Currently Learning**: Full-Stack Development .
   - 💼 **Career Goal**: To become a professional **full-stack developer** and contribute to impactful projects.
   - 🤝 **I’m looking for help with**: Tech Jobs and Internships
-  - 🌟 **Fun Fact**: I dedicate 10 hours daily to mastering web development.
+  - 🌟 **Fun Fact**: I dedicate 8 hours daily to mastering web development.
   - 🧠 **Hobbies**: Exploring productivity hacks, learning new things, and coding challenges.
 
 ---
@@ -28,9 +28,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Bootstrap-%237A6E4F.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
     <!-- Build Tools & Package Managers -->
-    <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
     <!-- Version Control & Deployment -->
