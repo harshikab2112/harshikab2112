@@ -80,6 +80,12 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
   <a href="https://www.freecodecamp.org/harshikab2112" target="_blank">
     <img src="https://img.shields.io/badge/freeCodeCamp-%23005A8B.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp" />
   </a>
+  <a href="https://www.frontendmentor.io/profile/harshikab2112" target="_blank">
+  <img src="https://img.shields.io/badge/Frontend%20Mentor-%230081F1.svg?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor" />
+</a>
+  <a href="https://devchallenges.io/profile/d81defda-0bb1-408e-9c10-457e5d0e77be" target="_blank">
+  <img src="https://img.shields.io/badge/DevChallenges-%23F24E1E.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevChallenges" />
+</a>
 </div>
 
 ---
