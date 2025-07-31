@@ -11,7 +11,7 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
   - 🌱 **Currently Learning**: Full-Stack Development .
   - 💼 **Career Goal**: To become a professional **full-stack developer** and contribute to impactful projects.
   - 🤝 **I’m looking for help with**: Tech Jobs and Internships
-  - 🌟 **Fun Fact**: I dedicate 8 hours daily to mastering web development.
+  - 🌟 **Fun Fact**: Still learning, still growing — just vibing with HTML and broken CSS.
   - 🧠 **Hobbies**: Exploring productivity hacks, learning new things, and coding challenges.
 
 ---
