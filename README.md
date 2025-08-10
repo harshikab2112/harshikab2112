@@ -39,6 +39,9 @@ Aspiring Full-Stack Developer | Passionate Learner | Problem-Solver 🚀
     <!-- Python and DSA -->
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/DSA-%230A7F2C.svg?style=for-the-badge&logo=python&logoColor=white" alt="DSA" />
+    <!-- Database -->
+  <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
 </div>
 
